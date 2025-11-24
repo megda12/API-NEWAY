@@ -30,7 +30,8 @@ Projeto pedagógico na Metodologia API para o aprendizado focado no desenvolvime
 # Objetivo do Projeto
 
 O objetivo é identificar os principais recursos, processos e estruturas do sistema produtivo. 
-Para a consecução deste objetivo foram estabelecidos os objetivos específicos:  
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+
 • Dashboard interativo no Power BI  
 • Decodificar os dados no Phyton  
 • Ter informações referente a 3 Municípios no mínimo  
@@ -38,7 +39,8 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 • Usar dados abertos do Comex Stat  
 
 ## Tecnologias Utilizadas
-• Tecnológias Específicas/Apoio  
+ Tecnológias Específicas/Apoio
+ 
 • Power BI  
 • Word  
 • Excel  
