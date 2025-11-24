@@ -30,23 +30,23 @@ Projeto pedagógico na Metodologia API para o aprendizado focado no desenvolvime
 # Objetivo do Projeto
 
 O objetivo é identificar os principais recursos, processos e estruturas do sistema produtivo. 
-Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
-• Dashboard interativo no Power BI 
-• Decodificar os dados no Phyton 
-• Ter informações referente a 3 Municípios no mínimo
-• Ter indicadores e gráficos que sejam interativos e claro 
-• Usar dados abertos do Comex Stat
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos:  
+• Dashboard interativo no Power BI  
+• Decodificar os dados no Phyton  
+• Ter informações referente a 3 Municípios no mínimo  
+• Ter indicadores e gráficos que sejam interativos e claro  
+• Usar dados abertos do Comex Stat  
 
 ## Tecnologias Utilizadas
-• Tecnológias Específicas/Apoio
-• Power BI
-• Word
-• Excel
-• Google colab
-• Linguaguem de Python
-• Github
-• Canvas
-• Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.)
+• Tecnológias Específicas/Apoio  
+• Power BI  
+• Word  
+• Excel  
+• Google colab  
+• Linguaguem de Python  
+• Github  
+• Canvas  
+• Documentação de projeto ágil (backlog de produto, de sprint, briefing, etc.)  
 
 # Product Backlog
 | Rank | User Story | Prioridade | Estimativa | Sprint 
