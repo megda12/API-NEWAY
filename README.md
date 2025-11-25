@@ -74,7 +74,6 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 15/09/2025 | concluido | 
 |01| 06/10/2025 | concluido | https://github.com/megda12/API-NEWAY/commit/5003ca299c6a5c9796be98c646a30cba49c3dc62
 |02|  10/11/2025| concluido | 
 |03| 24/11/2025 | concluido| 
