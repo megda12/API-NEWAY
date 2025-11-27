@@ -74,7 +74,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01| 06/10/2025 | concluido | | [MVP](MVP/SP1.md)  |
+|01| 06/10/2025 | concluido | | [MVP](https://github.com/megda12/API-NEWAY/blob/3d226589f4064236d3f083b04cae93749a5cbfc3/MVP/SP1.md)
 |02| 10/11/2025| concluido | https://github.com/megda12/API-NEWAY/blob/main/MVP/SP2.md
 |03| 24/11/2025 | concluido| 
 |04| 01/12/2025 | andamento|
