@@ -24,6 +24,8 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como SCRUM, quero demonstrar o meu backlog para a validação.          | Alta       | 3 horas   |
+| US1 | Decodificar dados do Comex Stat.                                      | Alta       | 5 horas   |
+| US1 | Usar o Google Colab para auxiliar nas extrações de informações.       | Alta       | 4 horas   |
 
 
 ---
