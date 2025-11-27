@@ -72,4 +72,5 @@
 
 https://fatecspgov.sharepoint.com/:u:/r/sites/GPI1/Shared%20Documents/General/DashAtual.pbix?csf=1&web=1&e=M3X3CK
 
+https://www.canva.com/design/DAG5AKEa3hQ/V5cX8rY7OBsTXIfiozW_gw/edit?utm_content=DAG5AKEa3hQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
