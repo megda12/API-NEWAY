@@ -67,3 +67,4 @@
 ---
 
 ## 📂 Anexos / Evidências
+[Relatório API 2 Semestre - Exportação.docx](https://github.com/user-attachments/files/23809696/Relatorio.API.2.Semestre.-.Exportacao.docx)
