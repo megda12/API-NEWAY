@@ -16,43 +16,42 @@
 
 ## 👥 Personas / Usuários-Alvo
 - **Marcus**: 
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 2:** Usuários alvo seria a apresentação para o cliente.
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como [SCRUM], quero [demonstrar o meu backlog] para [a validação].          | Alta       | 3 horas   |
+
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
+| 01     | [Dashboard]                                  | Concluído|
+| 02     | [Backlog e linhas de tendência power bi]     | Concluído|
+| 03     | [Entrega relatório parcialmente e Github]    | Concluído|
+| 04     | [Apresentação para o cliente e Slides]       | Andamento|
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O Power Bi estar de acordo com as exigências do cliente 
+- O relatório registra todas as informações
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- Foram feitas sprints para a validção do produto final. 
 - Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Indicadores de prdoução nos anos 2021 a 2025.
 
 ---
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
 ---
@@ -60,4 +59,3 @@
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
