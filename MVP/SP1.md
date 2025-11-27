@@ -15,7 +15,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Marcus**: Validação das sprints
+- **Marcus**: Validação das sprints.
 - **Persona 2:** Usuários alvo seria a apresentação para o cliente.
 
 ---
@@ -57,5 +57,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
+
+<img width="1439" height="805" alt="image" src="https://github.com/user-attachments/assets/98e50043-e312-47d1-b460-b7895cef2869" />
