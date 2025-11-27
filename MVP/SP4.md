@@ -46,6 +46,7 @@
 
 ## 📊 Critérios de Aceitação
 - O Power Bi estar de acordo com as exigências do cliente.
+- Cliente avaliar nosso projeto.
 - Backlog de Produto esteja alinhado.
 - O relatório registra todas as informações.
 
@@ -60,9 +61,7 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback.
-- Alinhar o Power bi novamente com o cliente.
-- Analisar se o vídeo tem todo a proposta pedida.
+- 
 - Expansão de funcionalidades para próximo incremento.
 
 ---
