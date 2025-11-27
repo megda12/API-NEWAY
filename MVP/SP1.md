@@ -46,8 +46,8 @@
 ---
 
 ## 📈 Métricas de Validação
-- Foram feitas sprints para a validção do produto final. 
-- Feedback qualitativo (positivo/negativo)  
+- Foram feitas sprints para a validação do produto final. 
+- Feedback qualitativo (positivo/negativo).
 - Indicadores de prdoução nos anos 2021 a 2025.
 
 ---
