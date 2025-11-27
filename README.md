@@ -33,7 +33,6 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 • Ter informações referente a 3 Municípios no mínimo  
 • Ter indicadores e gráficos que sejam interativos e claro  
 • Usar dados abertos do Comex Stat  
-• Backlog de produto
 
 
 ## Tecnologias Utilizadas
