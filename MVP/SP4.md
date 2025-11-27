@@ -61,12 +61,13 @@
 ---
 
 ## 🚀 Próximos Passos
-- 
+- Apresentar nosso projeto na feira de soluções.
 - Expansão de funcionalidades para próximo incremento.
 
 ---
 
 ## 📂 Anexos / Evidências
 
-<img width="766" height="422" alt="image" src="https://github.com/user-attachments/assets/be402aa2-443b-4b7e-a778-fd32d4217aee" />
+<img width="1473" height="824" alt="image" src="https://github.com/user-attachments/assets/56045767-93e3-49ed-a9d6-fc4d2078d80e" />
+
 
