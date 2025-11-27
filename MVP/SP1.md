@@ -15,7 +15,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Marcus**: 
+- **Marcus**: Validação das sprints
 - **Persona 2:** Usuários alvo seria a apresentação para o cliente.
 
 ---
@@ -23,7 +23,7 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [SCRUM], quero [demonstrar o meu backlog] para [a validação].          | Alta       | 3 horas   |
+| US1 | Como SCRUM, quero demonstrar o meu backlog para a validação.          | Alta       | 3 horas   |
 
 
 ---
@@ -31,10 +31,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Dashboard]                                  | Concluído|
-| 02     | [Backlog e linhas de tendência power bi]     | Concluído|
-| 03     | [Entrega relatório parcialmente e Github]    | Concluído|
-| 04     | [Apresentação para o cliente e Slides]       | Andamento|
+| 01     | Dashboard                                    | Concluído|
+| 02     | Backlog e linhas de tendência power bi       | Concluído|
+| 03     | Entrega relatório parcialmente e Github      | Concluído|
+| 04     | Apresentação para o cliente e Slides         | Andamento|
 ---
 
 ## 📊 Critérios de Aceitação
