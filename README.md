@@ -7,7 +7,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 * [Projeto (API)](#Projeto-API)
 * [Autores](#Autores)
-* [Objetivo do Projeto](Objetivo-do-projeto)
+* [Objetivo do Projeto](#Objetivo-do-Projeto)
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
