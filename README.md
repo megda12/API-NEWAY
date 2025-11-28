@@ -70,7 +70,7 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 | 17 | Como **supervisor**, quero desenvolver slides para apresentação com telas do Power Bi, junto com o backlog. | Alta | 3h | Sprint 3 | 
 | 18 | Como **supervisor**, quero relatar as dados relevantes sobre o mercado automotivo/autopeças. | Alta | 3h | Sprint 3 | 
 | 19 | Como **gerente de projeto**, quero aplicar os produtos fabricados e produção mensal de janeiro até dezembro no dashboard. | Média | 2h | Sprint 3 | 
-| 20 | Como **gerente de projeto**, quero apresentar o projeto final para o cliente. | Baixa | 2h | Sprint 4 | 
+| 20 | Como **gerente de projeto**, quero apresentar o projeto final para o cliente. | Alta | 2h | Sprint 4 | 
 
 # Registro das Sprints
 
